@@ -2,27 +2,25 @@
 
 DevOps Engineer at **NetCracker**
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-
 ---
 
 ## Programming Languages
 
-- <i class="devicon-python-plain colored"></i> Python
-- <i class="devicon-go-original-wordmark colored"></i> Go
-- <i class="devicon-bash-plain colored"></i> Bash
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="20"> Python
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="20"> Go
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" height="20"> Bash
 
 ## Tools & Technologies
 
-- <i class="devicon-docker-plain colored"></i> Docker
-- <i class="devicon-kubernetes-plain colored"></i> Kubernetes
-- <i class="devicon-fluxcd-original colored"></i> FluxCD
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height="20"> Docker
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" height="20"> Kubernetes
+- **FluxCD**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-plain.svg" height="20"> GitHub Actions
+- **VictoriaMetrics**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" height="20"> Grafana
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="20"> Linux
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="20"> Git
 <!-- <i class="devicon-helm-original colored"></i> Helm -->
-- <i class="devicon-githubactions-plain colored"></i> GitHub Actions
-- <i class="devicon-victoriametrics-plain colored"></i> VictoriaMetrics
-- <i class="devicon-grafana-original colored"></i> Grafana
-- <i class="devicon-linux-plain colored"></i> Linux
-- <i class="devicon-git-plain colored"></i> Git
 <!-- <i class="devicon-terraform-plain colored"></i> Terraform -->
 
 ## GitHub Stats
