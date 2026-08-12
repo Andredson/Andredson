@@ -2,8 +2,6 @@
 
 DevOps Engineer at **NetCracker**
 
----
-
 ## Programming Languages
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="20"> Python
@@ -20,23 +18,15 @@ DevOps Engineer at **NetCracker**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" height="20"> Grafana
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="20"> Linux
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="20"> Git
-<!-- <i class="devicon-helm-original colored"></i> Helm -->
-<!-- <i class="devicon-terraform-plain colored"></i> Terraform -->
+  <!-- <i class="devicon-helm-original colored"></i> Helm -->
+  <!-- <i class="devicon-terraform-plain colored"></i> Terraform -->
 
-## GitHub Stats
+## GitHub Streak
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andredson&show_icons=true&theme=dark&hide_border=true)](https://github.com/Andredson)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andredson&layout=compact&theme=dark&hide_border=true)](https://github.com/Andredson)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Andredson&theme=dark&hide_border=true)](https://github.com/Andredson)
-
----
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Andredson&theme=dark&hide_border=true)](https://github.com/Andredson)
 
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andre-salvo/)
-
----
 
 ⚡ Fun fact: Passionate about Open Source and automation
