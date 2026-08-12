@@ -23,7 +23,7 @@ DevOps Engineer at **NetCracker**
 
 ## GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Andredson&theme=dark&hide_border=true)](https://github.com/Andredson)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andredson&theme=github-dark-blue&hide_border=true&short_numbers=true&mode=weekly&card_width=700&card_height=200)](https://git.io/streak-stats)
 
 ## Connect with me
 
